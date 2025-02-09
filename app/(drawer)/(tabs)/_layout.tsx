@@ -36,7 +36,7 @@ export default function TabLayout() {
       <Tabs.Screen
         name="social"
         options={{
-          title: 'Social',
+          title: 'Ranking',
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="paperplane.fill" color={color} />,
         }}
       />
